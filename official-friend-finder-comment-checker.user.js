@@ -2,7 +2,7 @@
 // @name      Official Friend Finder Comment Checker
 // @namespace https://github.com/r-psnfriends-mods
 // @author    Flori4nK
-// @license   MIT (https://flori4nk.de/LICENSE)    
+// @license   https://flori4nk.de/LICENSE
 // @version   1
 // @grant     none
 // @match 	  https://www.reddit.com/r/*
