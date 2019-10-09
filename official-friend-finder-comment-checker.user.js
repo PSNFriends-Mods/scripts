@@ -5,7 +5,7 @@
 // @license   https://flori4nk.de/LICENSE
 // @version   1
 // @grant     none
-// @match 	  https://www.reddit.com/r/*
+// @match 	  https://www.reddit.com/r/PSNFriends/*
 // ==/UserScript==
 
 document.getElementsByClassName("flat-list buttons")[0].innerHTML += "<li><button id='offcc-userscript-mainbtn'>OFFCC</button></i>";
