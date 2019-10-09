@@ -3,7 +3,7 @@
 // @namespace https://github.com/r-psnfriends-mods
 // @author    Flori4nK
 // @license   https://flori4nk.de/LICENSE
-// @version   1
+// @version   1.1
 // @grant     none
 // @match 	  https://www.reddit.com/r/PSNFriends/*
 // ==/UserScript==
