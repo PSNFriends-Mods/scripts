@@ -1,0 +1,20 @@
+{
+  "avatar_url": "https://styles.redditmedia.com/t5_2wgrn/styles/communityIcon_h6vo4hs1zx111.png",
+  "content": "New post!",
+  "embeds": [
+    {
+      "author": {
+        "name": " {{Author}}",
+        "url": " https://www.reddit.com/u/{{Author}}"
+      },
+      "title": " {{Title}}",
+      "url": " {{PostURL}}",
+      "description": " {{Content}}",
+      "color": 4049907,
+      "footer": {
+        "text": " {{Subreddit}} | {{PostedAt}}",
+        "icon_url": "https://styles.redditmedia.com/t5_2wgrn/styles/communityIcon_h6vo4hs1zx111.png"
+      }
+    }
+  ]
+}
