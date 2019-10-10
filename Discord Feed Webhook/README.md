@@ -15,5 +15,5 @@ Using this webhook is pretty easy, it's the way you'd use any IFTTT webhook. If 
 ### Can I contribute to the look of the embed, text, etc?
 Of course, yes. You can contribute to anything. Just be sure to make an [Issue](https://github.com/r-PSNFriends-Mods/user-scripts/issues) or a [Pull Request](https://github.com/r-PSNFriends-Mods/user-scripts/pulls)
 
-# Who is the maintainer of this webhook?
+### Who is the maintainer of this webhook?
 Moderator [Costpap](https://github.com/Costpap) has access to this webhook. Please direct any questions, Issues/Pull Requests that need to be checked and are long overdue etc. to him.
