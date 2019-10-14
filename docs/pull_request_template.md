@@ -1,5 +1,13 @@
-##Questionaire
+---
+name: Open a Pull Request
+about: Start a Pull Request to add your favorite feature or fix the most annoying bug.
+title: ''
+labels: ''
+assignees: ''
 
+---
+
+## Questionaire
 **Does your Pull Request add a feature, or fix a bug?**
 [e.g. My Pull Request adds a new feature/My Pull Request fixes a bug.]
 
@@ -21,7 +29,7 @@ A clear and concise description of any changes that have been made in the docume
 **How has the code in this Pull Request been tested? Please specify.**
 A clear and concise description of any tests you ran to the code and the testing enviroment & settings.
 
-##Checklists
+## Checklists
 **Please tick all the following boxes by putting an x.**
 - [ ] I have tested my code to the best of my abilities and verified that it is working correctly.
 - [ ] I have made any needed changes to the Documentation and I have made sure that it is following any template given.
@@ -29,5 +37,5 @@ A clear and concise description of any tests you ran to the code and the testing
 - [ ] I have made sure that this Pull Request follows the code style of the script I'm contributing to.
 - [ ] I have read the Contributing Guidelines and have tried to follow them to the best of my abilities. (Future)
 
-###Additional Content/Screenshots
+### Additional Content/Screenshots
 Add any other context and Screenshots about the Pull Request here.
