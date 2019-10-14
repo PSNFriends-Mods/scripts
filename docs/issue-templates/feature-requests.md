@@ -1,7 +1,7 @@
 ---
-name: Feature Requests
+name: Request a Feature
 about: Suggest an idea for one of our scripts!
-title: ''
+title: FR | Title
 labels: enhancement
 assignees: ''
 
