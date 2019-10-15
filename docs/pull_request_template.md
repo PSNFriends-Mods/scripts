@@ -1,12 +1,3 @@
----
-name: Open a Pull Request
-about: Start a Pull Request to add your favorite feature or fix the most annoying bug.
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ## Questionaire
 **Does your Pull Request add a feature, or fix a bug?**
 [e.g. My Pull Request adds a new feature/My Pull Request fixes a bug.]
