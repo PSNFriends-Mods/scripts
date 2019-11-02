@@ -22,11 +22,12 @@ A clear and concise description of any tests you ran to the code and the testing
 
 ## Checklists
 **Please tick all the following boxes by putting an x.**
+- [ ] I have read and I have agreed to the Code of Conduct of this repository. (Future)
+- [ ] I have read the Contributing Guidelines and have tried to follow them to the best of my abilities. (Future)
 - [ ] I have tested my code to the best of my abilities and verified that it is working correctly.
 - [ ] I have made any needed changes to the Documentation and I have made sure that it is following any template given.
 - [ ] I have made sure that this Pull Request doesn't break any existing functionality of the script.
 - [ ] I have made sure that this Pull Request follows the code style of the script I'm contributing to.
-- [ ] I have read the Contributing Guidelines and have tried to follow them to the best of my abilities. (Future)
 
 ### Additional Content/Screenshots
 Add any other context and Screenshots about the Pull Request here.
