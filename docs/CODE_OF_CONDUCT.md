@@ -33,7 +33,8 @@ Examples of unacceptable behavior by participants include:
 
 ## Our Responsibilities
 
-Project maintainers, which are the moderators of [the subreddit](https://wwww.reddit.com/r/PSNFriends), are responsible for clarifying the standards of acceptable
+Project maintainers, which are the moderators of [the subreddit](https://wwww.reddit.com/r/PSNFriends), 
+are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
@@ -46,10 +47,11 @@ threatening, offensive, or harmful.
 ## Scope
 
 This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include posting in the [subreddit](https://www.reddit.com/r/PSNFriends) as a moderator speaking officially, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+when an individual is representing the project or its community. 
+Examples of representing a project or community include posting in the [subreddit](https://www.reddit.com/r/PSNFriends) 
+as a moderator speaking officially, or acting as an appointed
+representative at an online or offline event. 
+Representation of a project may be further defined and clarified by project maintainers.
 
 ## Enforcement
 
