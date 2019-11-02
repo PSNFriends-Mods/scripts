@@ -3,7 +3,7 @@
 [e.g. My Pull Request adds a new feature/My Pull Request fixes a bug.]
 
 **Does your Pull Request solve any existing Issues? Please specify.**
-[e.g. No, it doesn't solve any issue/Yes, it solves Issue #1]
+[e.g. No, it doesn't solve any issue/Yes, it closes Issue #1]
 
 **What exactly does your Pull Request change?**
 A clear and concise description of any changes in this Pull Request, as well as why they were made.
