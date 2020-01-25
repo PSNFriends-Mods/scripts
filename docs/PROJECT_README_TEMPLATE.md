@@ -1,4 +1,4 @@
-# OFFCC
+# Project Title
 #### Project Type: (For example: User Script or Webhook)
 #### Author: (Username)
 #### License: (Link to the LICENSE document)
