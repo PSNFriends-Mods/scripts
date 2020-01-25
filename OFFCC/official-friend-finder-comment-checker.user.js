@@ -17,10 +17,10 @@ var comments = document.querySelectorAll(".thing.noncollapsed.comment > .entry >
 function OFFCC_CLICK() {
   var found = 0;
   for(i = 0; i < comments.length; i++) {
-		if(!comments[i].innerText.match(/\w{1,3}\b *\/.+\/[\s\S]+/g)) {
-    	comments[i].style.background = "yellow";
-    	found++;
-    }
+	if(!comments[i].innerText.match(/\w{1,3}\b *\/.+\/[\s\S]+/g)) {
+    		comments[i].style.background = "yellow";
+    		found++;
+    	}
   }
   document.getElementById("offcc-userscript-mainbtn").innerText = "OFFCC: " + found;
 }
