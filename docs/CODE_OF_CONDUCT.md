@@ -17,8 +17,8 @@ include:
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
-* Focusing on what is best for the community and/or the moderators of our subreddit
-* Showing empathy towards other community members and/or moderators of our subreddit
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
 
@@ -47,11 +47,13 @@ threatening, offensive, or harmful.
 ## Scope
 
 This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. 
-Examples of representing a project or community include posting in the [subreddit](https://www.reddit.com/r/PSNFriends) 
-as a moderator speaking officially, or acting as an appointed
-representative at an online or offline event. 
-Representation of a project may be further defined and clarified by project maintainers.
+when an individual is representing the project or its community. Examples of
+representing a project or community include posting in the 
+[subreddit](https://www.reddit.com/r/PSNFriends) as a moderator 
+speaking officially, using an official project e-mail address, posting via 
+an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
 
 ## Enforcement
 
